@@ -1,0 +1,35 @@
+Notas:
+docs.css no viene incluido en las actualizaciones.
+en carpeta JS solo vienen 2 archivos, copiar de la version anterior.
+
+
+mybanner
+
+
+-188-
+body {
+  background: url(../../../css/img/bg.png) repeat-x #f9f9f9 !important;
+
+
+-1784-
+table th
+  background-color: #858585;
+  color: #ffffff;
+  text-align: center;
+
+
+-4048-
+navbar
+  margin-bottom: 15px;
+
+
+-1896-
+tr:hover
+  background-color: #e7e7e7;
+
+
+
+
+
+
+
